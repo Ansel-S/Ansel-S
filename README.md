@@ -6,13 +6,13 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ansel-S&show_icons=true&hide_border=true&hide_title=true&icon_color=F7E7CE&text_color=E6E6FA&bg_color=00000000&count_private=true&rank_icon=percentile&hide_rank=true" alt="Ansel's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=asong56&show_icons=true&hide_border=true&hide_title=true&icon_color=F7E7CE&text_color=E6E6FA&bg_color=00000000&count_private=true&rank_icon=percentile&hide_rank=true" alt="Ansel's Github Stats">
 
 <h6>TECH STACK</h6>
 <img src="https://skillicons.dev/icons?i=python,c,mysql,postgres,sqlite,html,css,scss,flask,markdown,git,notion,github,vscode&theme=dark&perline=7" width="600" />
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansel-S&bg_color=00000000&color=E6E6FA&line=F7E7CE&point=F7E7CE&area=true&hide_border=true&hide_title=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asong56&bg_color=00000000&color=E6E6FA&line=F7E7CE&point=F7E7CE&area=true&hide_border=true&hide_title=true" width="100%" />
 
 </div>
